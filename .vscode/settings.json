@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ae2e941e-605b-42f6-9e1b-1befb905b2a3/resourceGroups/Wackadoodle/providers/Microsoft.Web/sites/songcrepe",
+    "appService.deploySubpath": "."
+}
